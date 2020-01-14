@@ -49,7 +49,7 @@ def reduce_to_total(source_array, starting_point)
   total
 end
 
-def reduce_to_all_true(source_array, starting_point)
+def reduce_to_all_true(source_array)
   index = 0
   total = starting_point
   
